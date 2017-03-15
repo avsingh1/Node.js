@@ -1,0 +1,22 @@
+{
+  "name": "@avsingh1/mystuff",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts":{  
+         "test": "node test.js"  
+       },  
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avsingh1/Avinash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avsingh1/Avinash/issues"
+  },
+  "homepage": "https://github.com/avsingh1/Avinash#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
